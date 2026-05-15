@@ -17,5 +17,5 @@ Verbe à l'infinitif · Court (50 caractères max) · 1 commit = 1 action
             - Le Phishing.
             - L'Intro Github.
             
-            ## Une chose que j'aime lire des livres, regardes d'animers et des films au Cinéma, écouter de la Kpop, me promener dans la nature et les animaux.
+            ## Une chose que j'aime lire des livres, regarder d'animers et des films au Cinéma, écouter de la Kpop.
             ## Mon profil GitHub Retrouve-moi ici : https://github.com/mina849
