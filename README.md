@@ -6,7 +6,7 @@
 Verbe à l'infinitif · Court (50 caractères max) · 1 commit = 1 action
 
 👋 Bonjour, je suis Liticia !
-            ## Qui suis-je ? Je m'appelle Liticia.
+            ## Qui suis-je ? Je m'appelle Liticia 😊.
             Je suis stagiaire dans le programme PPNI 2026.
             J'apprends le numérique avec Auxilia en Formation.
             
@@ -17,5 +17,5 @@ Verbe à l'infinitif · Court (50 caractères max) · 1 commit = 1 action
             - Le Phishing.
             - L'Intro Github.
             
-            ## Une chose que j'aime lire des livres, regarder d'animers et des films au Cinéma, écouter de la Kpop.
+            ## Une chose que j'aime lire des livres, regarder des Animers et des films au Cinéma, écouter de la Kpop.
             ## Mon profil GitHub Retrouve-moi ici : https://github.com/mina849
